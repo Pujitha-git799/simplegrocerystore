@@ -33,9 +33,6 @@ describe('simpleGroceryStoreAPI', () => {
 
     })
 
-
-
-
     it("getfewproducts", () => {
 
         cy.request({

@@ -1,0 +1,6 @@
+node_modules
+package.json
+myDBTe.cy.js
+radiobuttionsandcheckboxes.cy.js
+xpathloca.cy.js
+csslocate.cy.js
